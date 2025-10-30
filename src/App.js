@@ -202,7 +202,7 @@ export default function PMPortfolio() {
               <Mail className="w-5 h-5" />
               Email Me
             </a>
-            <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 border-2 border-blue-600 text-blue-600 px-6 py-3 rounded-lg hover:bg-blue-50 transition">
+            <a href="https://www.linkedin.com/in/aishwarya-jain-b163161b4/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 border-2 border-blue-600 text-blue-600 px-6 py-3 rounded-lg hover:bg-blue-50 transition">
               <Linkedin className="w-5 h-5" />
               LinkedIn
             </a>
